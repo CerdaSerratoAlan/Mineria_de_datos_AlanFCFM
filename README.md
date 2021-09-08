@@ -11,3 +11,5 @@
 [Ejercicio Limpieza de datos](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Ej_Limpieza_Equipo10.ipynb)
 
 [Avance del PIA](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Avance1_PIA_Equipo10.ipynb)
+
+[Presentaciín aboles de decisión](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
