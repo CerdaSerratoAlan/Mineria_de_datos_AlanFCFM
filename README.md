@@ -17,3 +17,5 @@
 [Presentación árboles de decisión](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Presentacion_%C3%81rboles%20de%20Decisi%C3%B3n_Equipo10.pdf)
 
 [Práctica Visualización](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/Visualizacion_Equipo10.ipynb)
+
+[Avance del PIA 2](https://github.com/CruzLermaJorge/MineriaDatosJorge/blob/main/AvancePIA_II_002_10.ipynb)
