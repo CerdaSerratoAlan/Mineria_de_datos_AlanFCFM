@@ -24,3 +24,5 @@
 
 [Práctica técnicas de minería](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/T%C3%A9cnicaMiner%C3%ADa_Equipo10.ipynb)
 
+[Notebook final](https://github.com/GalindoVazquezJesusAlfonso/Mineria_Datos/blob/main/Tareas/PIA_002_Equipo10_Bitcoin.ipynb)
+
